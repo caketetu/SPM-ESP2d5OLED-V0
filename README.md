@@ -6,9 +6,9 @@
 
 ## 概要
 
-SPM-STMTBを使用した低電圧バイポーラステッピングモータードライバ(Low Voltage Stepping motor Driver)
-ドライバICはToshibaのTC78S600FTGを使用。\
-https://toshiba.semicon-storage.com/jp/semiconductor/product/motor-driver-ics/stepping-motor-driver-ics/detail.TC78S600FTG.html
+ESP32を使用した3.2inchLCDディスプレイ制御ボード\
+LCDの裏側にコンパクトに装着できる。LCDディスプレイは秋月で購入。\
+https://akizukidenshi.com/catalog/g/g116265/
 
 ## 機能
 
